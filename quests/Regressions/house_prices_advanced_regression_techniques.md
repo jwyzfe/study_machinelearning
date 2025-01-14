@@ -83,17 +83,48 @@
 
 
 
-# 연속형 데이터
+# 연속형 변수 목록
 
-- **LotFrontage**: 도로와 연결된 부동산의 선형 피트
-- **LotArea**: 대지 면적 (제곱 피트)
-- **YearBuilt**: 최초 건설 연도
-- **MasVnrArea**: 석조 베니어 면적 (제곱 피트)
-- **BsmtFinSF1**, **BsmtFinSF2**, **BsmtUnfSF**, **TotalBsmtSF**: 지하실 관련 면적
-- **1stFlrSF**, **2ndFlrSF**, **GrLivArea**: 주거 공간 면적
-- **GarageArea**: 차고 면적 (제곱 피트)
-- **WoodDeckSF**, **OpenPorchSF**, **EnclosedPorch**, **3SsnPorch**, **ScreenPorch**, **PoolArea**: 다양한 외부 공간 면적
-- **SalePrice**: 부동산의 판매 가격
+다음은 주어진 데이터에서 연속형 변수들입니다:
+
+- `Id`
+- `MSSubClass`
+- `LotFrontage`
+- `LotArea`
+- `OverallQual`
+- `OverallCond`
+- `YearBuilt`
+- `YearRemodAdd`
+- `MasVnrArea`
+- `BsmtFinSF1`
+- `BsmtFinSF2`
+- `BsmtUnfSF`
+- `TotalBsmtSF`
+- `1stFlrSF`
+- `2ndFlrSF`
+- `LowQualFinSF`
+- `GrLivArea`
+- `BsmtFullBath`
+- `BsmtHalfBath`
+- `FullBath`
+- `HalfBath`
+- `BedroomAbvGr`
+- `KitchenAbvGr`
+- `TotRmsAbvGrd`
+- `Fireplaces`
+- `GarageYrBlt`
+- `GarageCars`
+- `GarageArea`
+- `WoodDeckSF`
+- `OpenPorchSF`
+- `EnclosedPorch`
+- `3SsnPorch`
+- `ScreenPorch`
+- `PoolArea`
+- `MiscVal`
+- `MoSold`
+- `YrSold`
+- `SalePrice`
 
 
 
